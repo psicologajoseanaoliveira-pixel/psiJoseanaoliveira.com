@@ -66,7 +66,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Tratamentos
         subtitle: Numbers Done
         text: >+
 
