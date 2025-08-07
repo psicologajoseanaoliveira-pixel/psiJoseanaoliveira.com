@@ -24,7 +24,7 @@
         {
             "label": "Contatos",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/contato",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
