@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Acompanhamento
-        subtitle: The Job Stuff
+        subtitle: Emocional
         text: |
           Eemocional em fases de transição ou autoconhecimento
         image:
