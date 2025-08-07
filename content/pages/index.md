@@ -68,11 +68,8 @@ sections:
       - type: FeaturedItem
         title: Tratamentos
         subtitle: Numbers Done
-        text: >+
-
-          Tratamento psicológico para ansiedade, depressão, estresse e
-          autoestima
-
+        text: |
+          psicológico para ansiedade, depressão, estresse e autoestima
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
