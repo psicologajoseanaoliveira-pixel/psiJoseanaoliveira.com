@@ -97,7 +97,8 @@
         "self": {
             "padding": [
                 "pb-0",
-                "pl-3"
+                "pl-3",
+                "pr-3"
             ],
             "margin": [
                 "mt-0"
