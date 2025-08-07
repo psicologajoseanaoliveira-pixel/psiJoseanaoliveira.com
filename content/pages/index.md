@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Tratamentos
-        subtitle: Numbers Done
+        subtitle: Personalizados
         text: |
           psicológico para ansiedade, depressão, estresse e autoestima
         actions: []
