@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        sou a psicóloga Joseana Oliveira, apaixonada por ajudar pessoas a
-        cuidarem da saúde mental de forma integral.
+      text: sou a psicóloga Joseana Oliveira!
       color: text-dark
       type: TitleBlock
     subtitle: >-
