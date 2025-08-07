@@ -115,6 +115,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+            borderColor: border-dark
         type: FeaturedItem
       - title: Integração
         subtitle: Mente e Corpo
