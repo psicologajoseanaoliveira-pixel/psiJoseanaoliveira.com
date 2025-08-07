@@ -65,6 +65,29 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
+      - title: Acompanhamento
+        subtitle: Emocional
+        text: |
+          Em fases de transição ou autoconheciment
+        image:
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: Tratamentos
         subtitle: Personalizados
@@ -92,29 +115,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Acompanhamento
-        subtitle: Emocional
-        text: |
-          Em fases de transição ou autoconheciment
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: 200%
         subtitle: Faster
         text: >-
