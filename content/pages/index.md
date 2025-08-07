@@ -63,7 +63,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: conheça nossas Vantagens
     items:
       - type: FeaturedItem
         title: Tratamentos
