@@ -140,6 +140,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-dark
         type: FeaturedItem
     actions:
       - label: ''
