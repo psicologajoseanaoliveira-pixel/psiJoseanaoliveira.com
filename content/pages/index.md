@@ -9,7 +9,9 @@ sections:
         cuidarem da saúde mental de forma integral.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      apaixonada por ajudar pessoas a cuidarem da saúde mental de forma
+      integral.
     text: >+
       Acredito que o bem-estar vai muito além do consultório — ele começa na
       mente, passa pelo corpo e se reflete em toda a nossa qualidade de vida.
