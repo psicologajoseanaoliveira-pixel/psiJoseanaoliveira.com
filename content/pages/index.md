@@ -376,7 +376,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/logo joseana sem fundo!.png
+      url: /images/logo lilas sem fundo!.png
       altText: Dope design preview
       type: ImageBlock
     badge:
