@@ -114,7 +114,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Integração
         subtitle: Faster
         text: >+
           Promoção de bem-estar com a integração de atividades físicas e hábitos
