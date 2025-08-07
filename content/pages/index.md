@@ -94,8 +94,8 @@ sections:
               borderRadius: x-large
       - title: Acompanhamento
         subtitle: Emocional
-        text: |2
-           em fases de transição ou autoconhecimento
+        text: |
+          Em fases de transição ou autoconheciment
         image:
           url: /images/icon2.svg
           altText: Featured icon two
