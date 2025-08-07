@@ -50,7 +50,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-neutral-fg-dark",
     "type": "Header",
     "styles": {
