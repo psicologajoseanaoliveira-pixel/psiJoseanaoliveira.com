@@ -50,7 +50,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Olà
       color: text-primary
       type: Badge
     elementId: ''
