@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Olá!Eu sou a Joseana Oliveira, psicóloga, apaixonada por ajudar pessoas
+        a cuidarem da saúde mental de forma integral.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
