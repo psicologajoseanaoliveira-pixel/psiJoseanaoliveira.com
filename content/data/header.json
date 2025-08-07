@@ -97,6 +97,9 @@
         "self": {
             "padding": [
                 "pb-1"
+            ],
+            "margin": [
+                "mt-1"
             ]
         }
     }
