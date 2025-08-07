@@ -94,10 +94,8 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: |+
-
-          Acompanhamento emocional em fases de transição ou autoconhecimento
-
+        text: |
+          Eemocional em fases de transição ou autoconhecimento
         image:
           url: /images/icon2.svg
           altText: Featured icon two
