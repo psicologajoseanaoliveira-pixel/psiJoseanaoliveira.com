@@ -115,7 +115,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Integração
-        subtitle: Faster
+        subtitle: Mente e Corpo
         text: >+
           Promoção de bem-estar com a integração de atividades físicas e hábitos
           saudáveis
