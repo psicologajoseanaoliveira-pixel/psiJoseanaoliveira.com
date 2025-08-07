@@ -8,10 +8,21 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Acredito que o bem-estar vai muito além do consultório — ele começa na
+      mente, passa pelo corpo e se reflete em toda a nossa qualidade de vida.
+
+
+      Com formação em Psicologia e especialização em saúde mental e qualidade de
+      vida, meu trabalho une a escuta terapêutica com práticas que promovem
+      equilíbrio emocional, físico e social.
+
+
+      Aqui, cada pessoa é acolhida com empatia, respeito e um olhar
+      individualizado para sua história e necessidades.
+
+
+
     actions:
       - label: Get started
         altText: ''
